@@ -45,4 +45,4 @@ volumes:
   document_data:
   document_log:
   app_data:
-  mysql_data:
+  postgres_data:
